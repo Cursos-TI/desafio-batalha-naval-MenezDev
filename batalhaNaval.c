@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Desafio Batalha Naval - MateCheck
-// Nível Novato - Posicionamento dos Navios
+// Nível Aventureiro 
 
 #define LINHAS 10 // Define o número de linhas da matriz
 #define COLUNAS 10 //Define o número de colunas da matriz
